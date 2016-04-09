@@ -130,7 +130,7 @@ output:
 
 
   ### Logstash as output
-  #logstash:
+  logstash:
     # The Logstash hosts
     hosts: ["localhost:5044"]
 
